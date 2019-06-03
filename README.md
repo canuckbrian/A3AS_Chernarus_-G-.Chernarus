@@ -1,6 +1,5 @@
-[![KillerServers.io](https://www.killerservers.io/custom_images/email_logo.png)](https://www.killerservers.io)
 # Arma 3 - Antistasi 1.7.5 - Chernarus (Greenfor)
-Chernarus mission modification created by Brian Hill (CanuckBrian) admin@killerservers.io
+Chernarus mission modification created by Brian Hill (CanuckBrian) brianhill1980@gmail.com
 
 This is a port of the Antistasi 1.7.5 mission for Chernarus. All credits go to the Antistasi team for their hard work on an awesome mission. 
 - Antistasi - http://www.a3antistasi.com
